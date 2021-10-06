@@ -1,5 +1,5 @@
 # microquizlet
-# microquizlet jest kompatybiny z plikami tekstowymi wyekportowanymi ze strony internetowej quizlet 
-# ważne jest aby wybrać opcję eksportu z separoatorami jako przecinkmi (,)
-# w innym wypadku oprogram nie zadziała poprawnie
-# tworzenie pliku za pomocą pspad zpowodowało błąd odczyty, notatnik windowsa jest jak narazie jedyną sprawdzoną opcją
+# microquizlet jest kompatybilny z plikami tekstowymi wyekportowanymi ze strony internetowej quizlet 
+# ważne jest aby wybrać opcję eksportu z przecikami(,)
+# w innym wypadku program nie zadziała poprawnie
+# tworzenie pliku za pomocą pspad z powodowało błąd odczyty, notatnik windowsa jest jak narazie jedyną sprawdzoną opcją
