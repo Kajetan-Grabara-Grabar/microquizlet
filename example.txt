@@ -1,0 +1,97 @@
+być,be was/were been
+bić,beat beat beaten
+stać się,become became become
+zacząć,begin began begun
+gryść,bite bit bitten
+wiać,blow blew blown
+złamać,break broke broken
+przynieść,bring brought brought
+budować,build built built
+palić,burn burnt burnt
+pękać,burst burst burst
+kupować,buy bought bought
+złapać,catch caught caught
+wybrać,choose chose chosen
+przyjść,come came come
+kosztować,cost cost cost
+ciąć,cut cut cut
+kopać,dig dug dug
+robić,do did done
+ciągnąć,draw drew drawn
+śnić,dream dreamt dreamt
+prowadzić samochód,drive drove driven
+jeść,eat ate eaten
+spadać,fall fell fallen
+karmić,feed fed fed
+czuć,feel felt felt
+walczyć,fight fought fought
+znaleźć,find found found
+latać,fly flew flown
+zabronić,forbid forbade forbidden
+zapominać,forget forgot forgotten
+wybaczać,forgive forgave forgiven
+marznąć,freeze froze frozen
+dostawać,get got got
+dawać,give gave given
+iść,go went gone
+rosnąć,grow grew grown
+wieszać,hang hung hung
+mieć,have had had
+słyszeć,hear heard heard
+ukrywać,hide hid hidden
+uderzyć,hit hit hit
+trzymać,hold held held
+znać,know knew known
+położyć,put put put
+uczyć się,learn learnt learnt
+opuszczać,leave left left
+pożyczyć,lend lent lent
+pozwalać,let let let
+leżeć,lie lay lain
+zapalać,light lit lit
+zgubić,lose lost lost
+robić (make),make made made
+znaczyć,mean meant meant
+spotykać się,meet met met
+płacić,pay paid paid
+kłaść,put put put
+czytać,read read read
+jechać,ride rode ridden
+dzwonić,ring rang rung
+wschodzić,rise rose risen
+biegać,run ran run
+mówić,say said said
+widzieć,see saw seen
+szukać,seek sought sought
+sprzedawać,sell sold sold
+wysyłać,send sent sent
+nastawiać,set set set
+trząść,shake shook shaken
+świecić,shine shone shone
+strzelać,shoot shot shot
+pokazywać,show showed shown
+zamykać,shut shut shut
+śpiewać,sing sang sung
+siadać,sit sat sat
+spać,sleep slept slept
+wąchać,smell smelt smelt
+mówić (speak),speak spoke spoken
+literować,spell spelt spelt
+wydawać,spend spent spent
+stać,stand stood stood
+kraść,steal stole stolen
+przyklejać,stick stuck stuck
+przysiegać,swear swore sworn
+zamiatać,sweep swept swept
+pływać,swim swam swum
+brać,take took taken
+uczyć kogoś,teach taught taught
+rwać,tear tore torn
+powiedzieć,tell told told
+myśleć,think thought thought
+rzucać,throw threw thrown
+rozumieć,understand understood understood
+obudzić się,wake woke woken
+nosić,wear wore worn
+wygrywać,win won won
+pisać,write wrote written
